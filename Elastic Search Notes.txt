@@ -1,0 +1,7 @@
+Cluster index
+Index applied only if read is more than write
+Disadvantage: cannot search particular key words from text.
+Xml and csv not supported by es
+Sharding - horizontal partitioning of database
+Elastic search port: localhost:9200
+lucene : java library for optimal search
